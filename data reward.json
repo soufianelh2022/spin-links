@@ -1,14 +1,14 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
-		"native_type": "admob",
-		"inter_type": "admob",
-		"banner_type": "admob",
+		 "rewarde_type": "ironsource",
+		"native_type": "ironsource",
+		"inter_type": "ironsource",
+		"banner_type": "ironsource",
  
 		"unity_id": "4292105",
 
  
-		"ironsource_id": "11c7e1165",
+		"ironsource_id": "1639eb565",
 		"appodeal_app_key": "11c7e1165",
 
 		"cpa_image": "sds",
