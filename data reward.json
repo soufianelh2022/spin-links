@@ -1,9 +1,9 @@
 {
 	"ADS": {
 		 "rewarde_type": "ironsource",
-		"native_type": "ironsource",
+		"native_type": "yandex",
 		"inter_type": "ironsource",
-		"banner_type": "ironsource",
+		"banner_type": "yandex",
  
 		"unity_id": "4292105",
 
@@ -11,21 +11,21 @@
 		"ironsource_id": "1639eb565",
 		"appodeal_app_key": "11c7e1165",
 
-		"cpa_image": "sds",
-		"cpa_title": "sdcc",
-		"cpa_sous_title": "cpa_sous_title",
-		"cpa_url": "cpa_url",
+		"cpa_image": "https://iili.io/PncD9p.jpg",
+		"cpa_title": "Get 10,000 Free Coin Master Spins In Just 10 Minutes",
+		"cpa_sous_title": "Claim Now",
+		"cpa_url": "https://iili.io/PncD9p.jpg",
 		"show_cpa":true,
 
-		"cpa_popup_image": "sds",
-		"cpa_popup_title": "sdcc",
-		"cpa_popup_sous_title": "cpa_sous_title",
-		"cpa_popup_url": "cpa_url",
-		"cpa_popup_timer":1,
+		"cpa_popup_image": "https://iili.io/PncD9p.jpg",
+		"cpa_popup_title": "Get 10,000 Free Coin Master Spins In Just 10 Minutes",
+		"cpa_popup_sous_title": "Claim Now",
+		"cpa_popup_url": "https://iili.io/PncD9p.jpg",
+		"cpa_popup_timer":10,
 
-		"interstitial_yandex": "adf-279013/966533",
-		"banner_yandex": "adf-279013/966533",
-		"native_yandex": "adf-279013/966533",
+		"interstitial_yandex": "R-M-1780792-7",
+		"banner_yandex": "R-M-1780792-5",
+		"native_yandex": "R-M-1780792-6",
 		"rewarde_yandex": "adf-279013/966487",
 
 		
